@@ -1,0 +1,32 @@
+name: workflow-iptv-schedule
+
+on:
+  schedule:
+    # run every 30 minutes
+    - cron: "*/30 * * * *"
+
+jobs:
+  run-tdb:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Login to GitHub
+        uses: docker/login-action@v1
+        with:
+          registry: ghcr.io
+          username: ${{ github.repository_owner }}
+          password: ${{ secrets.CR_PAT }}
+      - name: push filtered iptv to repo
+        uses: nick-invision/retry@v2.4.0
+        with:
+          timeout_minutes: 60
+          max_attempts: 3
+          retry_wait_seconds: 120
+          command: |
+            output_filename="eng-movies-kids.m3u"
+            curl -L https://iptv-org.github.io/iptv/languages/eng.m3u | grep -Pzo '.*group-title="(Kids|Movies)".*\n.*m3u8' | tr '\0' '\n' > "${output_filename}"
+
+            git add "${output_filename}"
+            git commit -m "Updating English filtered m3u"
+            git push

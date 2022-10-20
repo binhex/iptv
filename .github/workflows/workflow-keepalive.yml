@@ -1,0 +1,16 @@
+name: workflow-keepalive
+
+on:
+  schedule:
+    # run at midnight every day
+    - cron: "0 0 * * *"
+
+jobs:
+  github-keep-active:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      # will create dummy commit if no commit for 50 days
+      - name: Prevent GitHub from disabling sync after 60 days
+        uses: gautamkrishnar/keepalive-workflow@master
