@@ -1,4 +1,4 @@
-name: workflow-iptv-manual
+name: workflow-iptv-schedule
 
 on:
   schedule:
