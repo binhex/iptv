@@ -20,6 +20,7 @@ jobs:
           username: ${{ github.repository_owner }}
           password: ${{ secrets.CR_PAT }}
       - name: push filtered iptv to repo
+        uses: fregante/setup-git-user@v1
         uses: nick-invision/retry@v2.4.0
         with:
           timeout_minutes: 60
