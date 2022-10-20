@@ -3,7 +3,7 @@ name: workflow-iptv-schedule
 on:
   schedule:
     # run every 1 day(s)
-    - cron: "* * */1 * *"
+    - cron: "0 0 * * *"
 
 jobs:
   run-tdb:
