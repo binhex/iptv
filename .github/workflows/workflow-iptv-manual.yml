@@ -28,7 +28,7 @@ jobs:
           command: |
             output_filename="eng.m3u"
             output_eng_movies_kids_filename="eng-movies-kids.m3u"
-            output_eng_movies_kids_filtered_regex="Geo-blocked|Bloody|Horror|Horrify|Scream"
+            output_eng_movies_kids_filtered_regex="Geo-blocked|Bloody|Horror|Horrify|Scream|Terror"
             output_eng_movies_kids_filtered_filename="eng-movies-kids-filtered.m3u"
 
             curl -o "${output_filename}" -L https://iptv-org.github.io/iptv/languages/eng.m3u
