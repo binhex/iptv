@@ -20,7 +20,7 @@ jobs:
           username: ${{ github.repository_owner }}
           password: ${{ secrets.CR_PAT }}
       - name: push filtered iptv to repo
-        uses: nick-invision/retry@v2.4.0
+        uses: nick-fields/retry@v2
         with:
           timeout_minutes: 60
           max_attempts: 3
