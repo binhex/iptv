@@ -1,7 +1,5 @@
 #EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-logo="https://i.imgur.com/FiTdDp1.png" group-title="Movies",24 Hour Free Movies (720p) [Not 24/7]
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8
-#EXTINF:-1 tvg-id="AghapyKids.us" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aghapy-kids-us.png" group-title="Kids",Aghapy Kids (1080p)
-https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East (720p)
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",BabyTV (1080p)
@@ -44,6 +42,8 @@ http://50.7.220.74:8278/momo1_twn/playlist.m3u8
 https://tve-live-lln.warnermediacdn.com/hls/live/2023180/toonwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="Charge.us" tvg-logo="https://i.imgur.com/fuw0hHE.png" group-title="Movies",Charge! (720p)
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="Movies",CinemaWorld (576p)
+http://210.210.155.37/dr9445/h/h04/index.m3u8
 #EXTINF:-1 tvg-id="Cinevault80s.us" tvg-logo="https://od.lk/s/MF8yMzI4NjIyODdf/Cinevault-80s_700x700.png" group-title="Movies",Cinevault 80s (540p)
 https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cocoro.us" tvg-logo="https://i.imgur.com/Z4hIjPn.jpg" group-title="Kids",Cocoro (1080p)
@@ -53,7 +53,7 @@ http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DramaLife.us" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/Drama_Life_190x190.png?raw=true" group-title="Movies",Drama Life (720p)
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8
 #EXTINF:-1 tvg-id="DuckTV.sk" tvg-logo="https://i.imgur.com/gRFQ35W.png" group-title="Kids",Duck TV (720p)
-https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+https://mmm-ducktv-3-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="DUST.us" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Movies",Dust (1080p)
 https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
 #EXTINF:-1 tvg-id="DUSTx.us" tvg-logo="https://i.imgur.com/9Xc7Q7S.jpg" group-title="Movies",DUSTx (720p)
@@ -62,6 +62,8 @@ https://dust.sinclair.wurl.com/manifest/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="RedboxUnsolvedMysteries.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Unsolved_mysteries_logo.png" group-title="Movies",FilmRise Forensic Files (XUMO) (432p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseFreeMovies.us" tvg-logo="https://i.imgur.com/X7U7ikq.png" group-title="Movies",FilmRise Free Movies (Redbox) (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmStreams.us" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="Movies",FilmStreams (720p)
@@ -86,8 +88,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlis
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Movee4U.us" tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_Movee4U-196x126.jpg" group-title="Movies",Movee 4U (480p)
 https://rebroadcast.mytvtogo.net/mytvtogo/movee4u/playlist.m3u8
-#EXTINF:-1 tvg-id="MovieKingdom.us" tvg-logo="https://i.imgur.com/pIuJqYk.png" group-title="Movies",Movie Kingdom (720p)
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1 tvg-id="MovieKingdom.us" tvg-logo="https://i.imgur.com/pIuJqYk.png" group-title="Movies",Movie Kingdom TV
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MovieSphere (1080p)
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyCinema.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="Movies",My Cinema (1080p)
@@ -102,12 +104,16 @@ https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
 #EXTINF:-1 tvg-id="NickelodeonAustralia.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Kids",Nickelodeon Australia (576p)
 http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
+#EXTINF:-1 tvg-id="ParamountMovieChannel.us" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="Movies",Paramount Movie Channel (720p)
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8
+#EXTINF:-1 tvg-id="ParamountPlusPicks.us" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="Movies",Paramount Plus Picks (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8
 #EXTINF:-1 tvg-id="70sCinema.us" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" group-title="Movies",Pluto TV 70s Cinema (684p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8
-#EXTINF:-1 tvg-id="80sRewind.us" tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png" group-title="Movies",Pluto TV 80s Rewind (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8
 #EXTINF:-1 tvg-id="90sThrowback.us" tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png" group-title="Movies",Pluto TV 90s Throwback (684p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Kids",Pluto TV BabyFirst (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8
 #EXTINF:-1 tvg-id="BlackCinema.us" tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG.png" group-title="Movies",Pluto TV Black Cinema (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVBubbleGuppies.us" tvg-logo="https://images.pluto.tv/channels/5e8b5a4bb7da5c0007e5c9e9/colorLogoPNG.png" group-title="Kids",Pluto TV Bubble Guppies (720p)
@@ -123,11 +129,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f31fd1b4c510e0007
 #EXTINF:-1 tvg-id="PlutoTVCrimeMovies.us" tvg-logo="https://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG.png" group-title="Movies",Pluto TV Crime Movies (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCultFilms.us" tvg-logo="https://images.pluto.tv/channels/5c5c31f2f21b553c1f673fb0/colorLogoPNG.png" group-title="Movies",Pluto TV Cult Films (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c31f2f21b553c1f673fb0/master.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8
 #EXTINF:-1 tvg-id="DoraTV.us" tvg-logo="https://images.pluto.tv/channels/5f8ecb9524419b0007365a1c/colorLogoPNG.png" group-title="Kids",Pluto TV Dora TV (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e43c344b54fe800093552f4/master.m3u8
-#EXTINF:-1 tvg-id="PlutoTVDrama.us" tvg-logo="https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/colorLogoPNG.png" group-title="Movies",Pluto TV Drama (360p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8
+#EXTINF:-1 tvg-id="PlutoTVDrama.us" tvg-logo="https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/colorLogoPNG.png" group-title="Movies",Pluto TV Drama (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc190f7bfed110009d934c3/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDramaUK.uk" tvg-logo="https://images.pluto.tv/channels/5ddf91149880d60009d35d27/colorLogoPNG.png" group-title="Movies",Pluto TV Drama (England) (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf91149880d60009d35d27/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDramaLife.us" tvg-logo="https://images.pluto.tv/channels/5f24662bebe0f0000767de32/colorLogoPNG.png" group-title="Movies",Pluto TV Drama Life (720p)
@@ -142,14 +148,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="Kids",Pluto TV Nick Jr. (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede45451dce190007ef9ff2/master.m3u8
-#EXTINF:-1 tvg-id="ParamountMovieChannel.us" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="Movies",Pluto TV Paramount Movie Channel (240p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8
-#EXTINF:-1 tvg-id="ParamountPlusPicks.us" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="Movies",Pluto TV Paramount+ Picks (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8
+#EXTINF:-1 tvg-id="80sRewind.us" tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png" group-title="Movies",Pluto TV Pluto 80s Rewind (684p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRetroToons.us" tvg-logo="https://images.pluto.tv/channels/5c5c2b9d8002db3c3e0b1c6d/colorLogoPNG.png" group-title="Kids",Pluto TV Retro Toons (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1c669094e0e80009b22ab8/master.m3u8
-#EXTINF:-1 tvg-id="PlutoTVRomanceUK.uk" tvg-logo="https://images.pluto.tv/channels/5d7677c0edace7cff8180b16/colorLogoPNG.png" group-title="Movies",Pluto TV Romance (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8
+#EXTINF:-1 tvg-id="PlutoTVRomanceUK.uk" tvg-logo="https://images.pluto.tv/channels/5d7677c0edace7cff8180b16/colorLogoPNG.png" group-title="Movies",Pluto TV Romance (England) (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677c0edace7cff8180b16/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSamCat.us" tvg-logo="https://images.pluto.tv/channels/5e8b5ba20af628000707cee3/colorLogoPNG.png" group-title="Kids",Pluto TV Sam & Cat (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b5ba20af628000707cee3/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSpotlight.us" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" group-title="Movies",Pluto TV Spotlight (684p)
@@ -157,7 +161,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37
 #EXTINF:-1 tvg-id="PlutoTVStaffPicks.us" tvg-logo="https://images.pluto.tv/channels/5f4d863b98b41000076cd061/colorLogoPNG.png" group-title="Movies",Pluto TV Staff Picks (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd061/master.m3u8
 #EXTINF:-1 tvg-id="TotallyTurtles.us" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="Kids",Pluto TV Totally Turtles (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8
 #EXTINF:-1 tvg-id="TVLandDrama.us" tvg-logo="https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/colorLogoPNG.png" group-title="Movies",Pluto TV TV Land Drama (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTween.us" tvg-logo="https://images.pluto.tv/channels/5db0ae5af8797b00095c0794/colorLogoPNG.png" group-title="Kids",Pluto TV Tween (720p)
@@ -188,8 +192,6 @@ https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericanClassics.us" tvg-logo="https://i.imgur.com/QimgSp0.png" group-title="Movies",STIRR American Classics (360p)
 https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
-#EXTINF:-1 tvg-id="FilmRiseFreeMovies.us" tvg-logo="https://i.imgur.com/X7U7ikq.png" group-title="Movies",STIRR FilmRise Free Movies (720p) [Not 24/7]
-https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 #EXTINF:-1 tvg-id="GravitasMovies.us" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="Movies",STIRR Gravitas Movies (720p)
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 #EXTINF:-1 tvg-id="STIRRMovies.us" tvg-logo="https://i.imgur.com/ec3yTaI.png" group-title="Movies",STIRR Movies (720p) [Not 24/7]
@@ -206,8 +208,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-logo="https://i.imgur.com/isr5jto.png" group-title="Movies",Thrill (576p)
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-logo="https://i.imgur.com/6OiYQeS.png" group-title="Kids",Toon Goggles (720p) [Not 24/7]
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-logo="https://i.imgur.com/6OiYQeS.png" group-title="Kids",Toon Goggles (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSDriveInMovie.us" tvg-logo="https://i.imgur.com/RhKSIGQ.jpg" group-title="Movies",TVS Drive In Movie (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
 #EXTINF:-1 tvg-id="TVSFilmNoirNetwork.us" tvg-logo="https://i.imgur.com/A4yWhQw.png" group-title="Movies",TVS Film Noir Network (720p)
