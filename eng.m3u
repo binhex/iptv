@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/au.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/bn.xml,https://iptv-org.github.io/epg/guides/bs.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/cg.xml,https://iptv-org.github.io/epg/guides/ch.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/de.xml,https://iptv-org.github.io/epg/guides/dz.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/gh.xml,https://iptv-org.github.io/epg/guides/hk.xml,https://iptv-org.github.io/epg/guides/id.xml,https://iptv-org.github.io/epg/guides/ie.xml,https://iptv-org.github.io/epg/guides/in.xml,https://iptv-org.github.io/epg/guides/jm.xml,https://iptv-org.github.io/epg/guides/ke.xml,https://iptv-org.github.io/epg/guides/kr.xml,https://iptv-org.github.io/epg/guides/kw.xml,https://iptv-org.github.io/epg/guides/lu.xml,https://iptv-org.github.io/epg/guides/mw.xml,https://iptv-org.github.io/epg/guides/my.xml,https://iptv-org.github.io/epg/guides/ng.xml,https://iptv-org.github.io/epg/guides/nl.xml,https://iptv-org.github.io/epg/guides/nz.xml,https://iptv-org.github.io/epg/guides/ph.xml,https://iptv-org.github.io/epg/guides/pk.xml,https://iptv-org.github.io/epg/guides/pr.xml,https://iptv-org.github.io/epg/guides/ro.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/rw.xml,https://iptv-org.github.io/epg/guides/sa.xml,https://iptv-org.github.io/epg/guides/se.xml,https://iptv-org.github.io/epg/guides/sg.xml,https://iptv-org.github.io/epg/guides/sk.xml,https://iptv-org.github.io/epg/guides/sl.xml,https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/us.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/au.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/bn.xml,https://iptv-org.github.io/epg/guides/bs.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/cg.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/de.xml,https://iptv-org.github.io/epg/guides/dz.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/gh.xml,https://iptv-org.github.io/epg/guides/hk.xml,https://iptv-org.github.io/epg/guides/id.xml,https://iptv-org.github.io/epg/guides/ie.xml,https://iptv-org.github.io/epg/guides/in.xml,https://iptv-org.github.io/epg/guides/jm.xml,https://iptv-org.github.io/epg/guides/ke.xml,https://iptv-org.github.io/epg/guides/kr.xml,https://iptv-org.github.io/epg/guides/kw.xml,https://iptv-org.github.io/epg/guides/lu.xml,https://iptv-org.github.io/epg/guides/mw.xml,https://iptv-org.github.io/epg/guides/my.xml,https://iptv-org.github.io/epg/guides/ng.xml,https://iptv-org.github.io/epg/guides/nl.xml,https://iptv-org.github.io/epg/guides/nz.xml,https://iptv-org.github.io/epg/guides/ph.xml,https://iptv-org.github.io/epg/guides/pk.xml,https://iptv-org.github.io/epg/guides/pr.xml,https://iptv-org.github.io/epg/guides/ro.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/rw.xml,https://iptv-org.github.io/epg/guides/sa.xml,https://iptv-org.github.io/epg/guides/se.xml,https://iptv-org.github.io/epg/guides/sg.xml,https://iptv-org.github.io/epg/guides/sk.xml,https://iptv-org.github.io/epg/guides/sl.xml,https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/us.xml"
 #EXTINF:-1 tvg-id="WKYCDT1.us" tvg-logo="https://i.imgur.com/tjlSkyp.jpg" group-title="Undefined",3 Studios Cleveland OH (WKYC) (1080p)
 https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="4Music.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/512px-4Music_logo_2018.svg.png" group-title="Music",4Music [Geo-blocked]
@@ -234,8 +234,6 @@ https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Animax Asia (Vietnamese Subs) (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/512px-Aniplus_Asia_Logo.png" group-title="Animation",Aniplus (Indonesian subtitle) (576p) [Geo-blocked]
-http://210.210.155.37/dr9445/h/h02/index.m3u8
 #EXTINF:-1 tvg-id="ArchitecturalDigest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Architectural_Digest_logo.svg/512px-Architectural_Digest_logo.svg.png" group-title="Undefined",Architectural Digest (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/512px-Arirang.svg.png" group-title="General;News",Arirang (720p)
@@ -446,8 +444,6 @@ https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
 https://bloomberg-quicktake-1-fi.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV (1080p) [Not 24/7]
 https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
-#EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia (576p)
-http://210.210.155.37/dr9445/h/h03/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAustralia.au" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Australia (270p)
 https://bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV EMEA Live Event (720p)
@@ -567,8 +563,6 @@ https://buzzr-samsungus.amagi.tv/playlist.m3u8
 https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
 #EXTINF:-1 tvg-id="C31Melbourne.au" tvg-logo="https://i.imgur.com/Ge1EutY.png" group-title="General",C31 Melbourne (240p)
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1 tvg-id="CableHits.us" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="Entertainment",Cable Hits (720p) [Not 24/7]
-https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CTV.us" tvg-logo="https://i.imgur.com/ua0tHXb.png" group-title="Undefined",Calabasas Channel (480p)
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8
 #EXTINF:-1 tvg-id="CameraSmileTV.us" tvg-logo="https://i.imgur.com/NG9W4vU.png" group-title="Comedy",Camera Smile TV (480p)
@@ -579,8 +573,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanadaStarTV.ca" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" group-title="Undefined",Canada Star TV (720p)
 https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalMotor.no" tvg-logo="https://i.imgur.com/BHm0wem.png" group-title="Sports",Canal Motor (720p)
-http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 tvg-id="CFTUDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Savoir_tv_logo.png" group-title="Undefined",Canal Savoir (360p)
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="CAPSChannel6.us" tvg-logo="https://i.imgur.com/by9Q5Ea.png" group-title="Undefined",CAPS Media Channel 6 (Ventura CA) (480p)
@@ -676,6 +668,8 @@ https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
 http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 #EXTINF:-1 tvg-id="CBSNewsPhilly.us" tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png" group-title="News",CBSN Philly PA (720p)
 https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
+#EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-logo="https://i.imgur.com/cfvjieR.png" group-title="General",CCTV-4 Asia (576p)
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 #EXTINF:-1 tvg-id="CCXMediaNorthBrooklynParkMN.us" tvg-logo="https://i.imgur.com/EOeoqsd.jpg" group-title="Undefined",CCX Media North Brooklyn Park MN (1080p)
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 tvg-id="CDMInternacional.pr" tvg-logo="https://cdn.mitvstatic.com/channels/hn_cdm-cadena-de-milagros_m.png" group-title="Undefined",CDM International (480p) [Not 24/7]
@@ -942,6 +936,8 @@ https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 https://arizonawesterncol.secure.footprint.net/egress/bhandler/arizonawesterncol/streamb/playlist.m3u8
 #EXTINF:-1 tvg-id="EETTV.ca" tvg-logo="https://i.imgur.com/k0Hzr3X.png" group-title="Undefined",EET TV (1080p) [Not 24/7]
 https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 tvg-id="eGGNetwork.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="Undefined",Egg Network (720p)
+http://210.210.155.37/uq2663/h/h22/index.m3u8
 #EXTINF:-1 tvg-id="ElSegundoMedia.us" tvg-logo="https://i.imgur.com/m0aS16T.png" group-title="Undefined",El Segundo Media (360p)
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/elsegundo/G0014_002/playlist.m3u8
 #EXTINF:-1 tvg-id="ElectricNow.us" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Entertainment",Electric Now (1080p)
@@ -983,8 +979,6 @@ https://streams.helnix.com/autoHLS/900735315c2bc38b/900735315c2bc38b.m3u8
 https://streams.helnix.com/autoHLS/02d8dab006ef9ffd/02d8dab006ef9ffd.m3u8
 #EXTINF:-1 tvg-id="CityofFairfieldChannel26.us" tvg-logo="https://i.imgur.com/ImN3Z77.png" group-title="General",Fairfield Government Access Channel 26 (Fairfield CA) (720p) [Geo-blocked]
 https://reflect-fairfield-ca.cablecast.tv/live-8/live/live.m3u8
-#EXTINF:-1 tvg-id="FaithlifeTV.us" tvg-logo="https://i.imgur.com/VYaBkC8.png" group-title="Religious",Faithlife TV (720p)
-https://biblescreen.faithlifecdn.com/biblescreen/faithlifetv/playlist.m3u8
 #EXTINF:-1 tvg-id="FaithlifeBibleScreen.us" tvg-logo="https://i.imgur.com/hy61jmh.png" group-title="Religious",Faithlife TV Bible Screen (720p)
 https://biblescreen.faithlifecdn.com/biblescreen/bibleScreen/playlist.m3u8
 #EXTINF:-1 tvg-id="ChristmasMusic.us" tvg-logo="https://i.imgur.com/75Sq48R.png" group-title="Animation;Entertainment;Music;Religious",Faithlife TV Christmas Music (720p)
@@ -1015,6 +1009,8 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCT3Dk_ZPcoR7CeHM_Wwb3QA/live
 #EXTINF:-1 tvg-id="FCPublicMedia.us" tvg-logo="https://i.imgur.com/8qa94zL.png" group-title="General",FC Public Media (Fort Collins CO) (1080p)
 https://reflect-fcpublicmedia.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-id="FernandinaBeachChannel.us" tvg-logo="https://i.imgur.com/9UfyekJ.png" group-title="Legislative",Fernandina Beach City Meeting (Fernandina Beach FL) (720p) [Not 24/7]
+https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="FidoTV.us" tvg-logo="https://i.imgur.com/kvdqP3H.jpg" group-title="Entertainment",Fido TV (720p) [Not 24/7]
 http://n1.klowdtv.net/live3/fido_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/512px-Fight_network_logo.svg.png" group-title="Sports",Fight Network (1080p)
@@ -1237,10 +1233,6 @@ https://5e6cea03e25b6.streamlock.net/live/HI.stream/playlist.m3u8
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="HighTimes.us" tvg-logo="https://i.imgur.com/TaeeQnn.png" group-title="Entertainment",High Times (720p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2503932c8368bdbfd875/playlist.m3u8
-#EXTINF:-1 tvg-id="HillsboroughTV.us" tvg-logo="https://i.imgur.com/fUne7FX.png" group-title="Legislative",Hillsborough County TV HTV (Hillsborough County FL) (360p)
-https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8
-#EXTINF:-1 tvg-id="HistoryEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",History East (720p) [Not 24/7]
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HKIBC.hk" tvg-logo="https://i.imgur.com/9LiN8Xi.png" group-title="Undefined",HKIBC
 http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="News",HLN (720p)
@@ -1325,6 +1317,8 @@ https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/irvine/G0016_010/playlist.m3u8
 https://live.islamchannel.tv/islamtv_english/live.m3u8
 #EXTINF:-1 tvg-id="IslandEscape.us" tvg-logo="https://i.imgur.com/ZvF6Yin.png" group-title="Relax",Island Escape (720p)
 https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
+#EXTINF:-1 tvg-id="IslandLuckTV.bs" tvg-logo="https://www.islandluck.com/images/logo.png" group-title="Entertainment",Island Luck TV (720p)
+https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ItsSupernaturalNetwork.us" tvg-logo="https://www.lyngsat.com/logo/tv/ii/its_supernatural_network_us.png" group-title="Undefined",It's Supernatural! Network (ISN Network) (1080p)
 https://isntv.mmdlive.lldns.net/isntv/f79b65204e7141c6a5cc74e63cf0dae5/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="Undefined",ITV2 (576p) [Not 24/7]
@@ -1469,8 +1463,6 @@ http://67.53.122.248/live-4/live/live.m3u8
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 tvg-id="LakeFrontTV.us" tvg-logo="https://i.imgur.com/UYKAb2C.png" group-title="Legislative",Leesburg Lakefront TV (Leesburg FL) (720p)
 https://reflect-lakefront-leesburgflorida.cablecast.tv/live-5/live/live.m3u8
-#EXTINF:-1 tvg-id="LegislativeAssemblyofBritishColumbia.ca" tvg-logo="https://www.lyngsat.com/logo/tv/ll/legislative-assembly-of-british-columbia-ca.png" group-title="Legislative",Legislative Assembly of British Columbia (540p)
-https://hbsprim-1be2a.kxcdn.com/legbcca-prim-chamber-httpo/ChamberP.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LegoChannel.us" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",Lego Channel (1080p)
 https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LeominsterTVEducational.us" tvg-logo="https://i.imgur.com/lTzoshf.png" group-title="Education",Leominster TV Educational (720p)
@@ -1732,8 +1724,6 @@ https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="MyCinema.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="Movies",My Cinema (1080p)
 http://210.210.155.37/uq2663/h/h192/index.m3u8
-#EXTINF:-1 tvg-id="MyCinemaEurope.ch" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_cinema_europe_kr.png" group-title="Movies",My Cinema Europe (576p)
-http://210.210.155.37/uq2663/h/h18/index.m3u8
 #EXTINF:-1 tvg-id="MyFamily.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-family-id.png" group-title="Family",My Family Channel (1080p) [Geo-blocked]
 http://210.210.155.37/uq2663/h/h194/index.m3u8
 #EXTINF:-1 tvg-id="WISCDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png" group-title="Undefined",My Madison TV (WISC-DT2) (720p)
@@ -1756,8 +1746,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex
 http://stream.pivotalelements.com/nactv/stream.m3u8
 #EXTINF:-1 tvg-id="NapaValleyChannel27.us" tvg-logo="https://i.imgur.com/gCquORk.png" group-title="Education",Napa Valley TV Education Access Channel 27 (480p)
 https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_003/playlist.m3u8
-#EXTINF:-1 tvg-id="NapaValleyChannel28.us" tvg-logo="https://i.imgur.com/gCquORk.png" group-title="General",Napa Valley TV Public Access Channel 28 (480p)
-https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_004/playlist.m3u8
 #EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="Science",NASA TV (720p)
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 tvg-id="NASATVISSViews.us" tvg-logo="https://i.imgur.com/bKVNdeh.jpg" group-title="Science",NASA TV ISS Views (480p) [Not 24/7]
@@ -1890,8 +1878,6 @@ https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVKenya.ke" tvg-logo="https://i.imgur.com/IqXbVQD.png" group-title="General",NTV (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NTVKenyaOnline/live
-#EXTINF:-1 tvg-id="NTV.ca" tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="Undefined",NTV (Newfoundland) (576p) [Not 24/7]
-https://2-fss-1.streamhoster.com/pl_122/201748-1282644-1/playlist.m3u8
 #EXTINF:-1 tvg-id="LegislativeAssemblyTVNunavut.ca" tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_tv_nunavut.png" group-title="Legislative",Nunavut Legislative Assembly
 https://temp6.isilive.ca/live/nunavut/live-flo/index.m3u8
 #EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/512px-One_America_News_Network_logo.svg.png" group-title="News",OAN (1080p)
@@ -2882,8 +2868,8 @@ https://securestream3.champds.com/hlssstc/RockyHillCTLIVE/RockyHillCTLIVE.m3u8
 https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RTAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/512px-RT_America_Logo.png" group-title="News",RT America (1080p) [Geo-blocked]
 https://rt-usa.rttv.com/live/rtusa/playlist.m3u8
-#EXTINF:-1 tvg-id="RTDoc.ru" tvg-logo="https://i.imgur.com/rli3c7T.png" group-title="Documentary",RT Documentary Russian (1080p)
-https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 tvg-id="RTDoc.ru" tvg-logo="https://i.imgur.com/rli3c7T.png" group-title="Documentary",RT Documentary Russian (1080p) [Not 24/7]
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 #EXTINF:-1 tvg-id="RTUK.uk" tvg-logo="https://i.imgur.com/Fbli6Ml.png" group-title="News",RT UK (1080p) [Geo-blocked]
 https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 #EXTINF:-1 tvg-id="RTBAneka.bn" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png" group-title="Undefined",RTB Aneka (720p)
@@ -3007,8 +2993,10 @@ https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
 http://cdn.tvmatic.net/sport.m3u8
 #EXTINF:-1 tvg-id="Sportswire.us" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usatoday_sportswire_logo_dark_v2.png" group-title="Sports",Sportswire (1080p)
 https://dai.google.com/linear/hls/event/8R__yZf7SR6yMb-oTXgbEQ/master.m3u8
-#EXTINF:-1 tvg-id="SportyStuffTV.uk" tvg-logo="https://i.imgur.com/6s1YGSV.png" group-title="Sports",Sporty Stuff TV (720p)
-https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
+#EXTINF:-1 tvg-id="SportyStuffTV.uk" tvg-logo="https://i.imgur.com/6s1YGSV.png" group-title="Sports",SportyStuff TV (1080p)
+https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/manifest.m3u8
+#EXTINF:-1 tvg-id="SpringsTV.us" tvg-logo="https://i.imgur.com/v6gAvMH.png" group-title="Legislative",SpringsTV (Colorado Springs CO) (720p)
+https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/coloradosprings/G1424_002/playlist.m3u8
 #EXTINF:-1 tvg-id="SpydarTV.us" tvg-logo="https://i.imgur.com/IkgBdbw.png" group-title="Entertainment",Spydar TV (720p)
 https://simultv.s.llnwi.net/n4s4/Spydar/interlink.m3u8
 #EXTINF:-1 tvg-id="GTV.us" tvg-logo="https://i.imgur.com/xN6WM3N.png" group-title="Legislative",St. Johns County Government GTV (St. Johns County FL) (720p)
@@ -3652,9 +3640,6 @@ https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8
 http://v-pi.theus6tv.duckdns.org/hls/10.2/playlist.m3u8
 #EXTINF:-1 tvg-id="WCBIDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Undefined",WCBI (News)
 https://dai.google.com/linear/hls/event/qLrnhs3RQUa2zMw9UBkroQ/master.m3u8
-#EXTINF:-1 tvg-id="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",WCBS-DT1 (CBS 2) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WCBSDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/512px-Start_TV_logo.svg.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",WCBS-DT2 (Start TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://v-ny.theus6tv.duckdns.org/hls/2.2/playlist.m3u8
@@ -3730,6 +3715,9 @@ http://v-ny.theus6tv.duckdns.org/hls/33.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WJLPDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",WJLP-DT2 (Laff)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://v-ny.theus6tv.duckdns.org/hls/33.2/playlist.m3u8
+#EXTINF:-1 tvg-id="WJLPDT3.us" tvg-logo="https://i.imgur.com/6w1Wj3j.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",WJLP-DT3 (Grit)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+http://v-ny.theus6tv.duckdns.org/hls/33.3/playlist.m3u8
 #EXTINF:-1 tvg-id="WJLPDT4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",WJLP-DT4 (Ion Mystery)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://v-ny.theus6tv.duckdns.org/hls/33.4/playlist.m3u8
@@ -3804,6 +3792,9 @@ http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WNYWDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Movies%21_logo.svg/512px-Movies%21_logo.svg.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",WNYW-DT2 (Movies!)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://v-ny.theus6tv.duckdns.org/hls/5.2/playlist.m3u8
+#EXTINF:-1 tvg-id="WNYWDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",WNYW-DT3 (FOX Weather)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+http://v-ny.theus6tv.duckdns.org/hls/5.3/playlist.m3u8
 #EXTINF:-1 tvg-id="WNYWDT5.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Decades_Logo.svg/512px-Decades_Logo.svg.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",WNYW-DT5 (Decades)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://v-ny.theus6tv.duckdns.org/hls/5.5/playlist.m3u8
@@ -3837,6 +3828,9 @@ https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPTZ.m3u8
 #EXTINF:-1 tvg-id="WPVIDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",WPVI-TV News (720p)
 https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
+#EXTINF:-1 tvg-id="WPXNDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",WPXN-DT1 (Ion East)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+http://v-ny.theus6tv.duckdns.org/hls/31.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WPXNDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",WPXN-DT2 (Bounce HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://v-ny.theus6tv.duckdns.org/hls/31.2/playlist.m3u8
@@ -3858,6 +3852,9 @@ http://v-ny.theus6tv.duckdns.org/hls/31.7/playlist.m3u8
 #EXTINF:-1 tvg-id="WRNNDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/WRNN-TV_RNN_logo.png/512px-WRNN-TV_RNN_logo.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",WRNN-DT1 (ShopLC) (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://v-ny.theus6tv.duckdns.org/hls/48.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WRNNDT3.us" tvg-logo="https://i.imgur.com/2Rwnuyr.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",WRNN-DT3 (Canal de la Fe) (432p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+http://v-ny.theus6tv.duckdns.org/hls/48.3/playlist.m3u8
 #EXTINF:-1 tvg-id="WSTOTV.us" tvg-logo="https://i.imgur.com/Sf7ygX7.png" group-title="General",WSTO
 https://stoughton-wi.secure.footprint.net/egress/bhandler/stoughtonwi/streama/chunklist_b2192000.m3u8
 #EXTINF:-1 tvg-id="WTVDDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",WTVD TV News (720p)
@@ -3865,6 +3862,9 @@ https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x
 #EXTINF:-1 tvg-id="WTVEDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/WTVE51.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",WTVE-DT1 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://v-pi.theus6tv.duckdns.org/hls/51.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WTVEDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/As_seen_on_TV.svg/512px-As_seen_on_TV.svg.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",WTVE-DT2 (TimelessTV) (432p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+http://v-pi.theus6tv.duckdns.org/hls/51.2/playlist.m3u8
 #EXTINF:-1 tvg-id="WTVQDT1.us" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wtvq_abc36_lexington.png" group-title="Undefined",WTVQ-DT News Lexington KY (720p)
 https://dai.google.com/linear/hls/event/7xSxXPG1RqKkNva1wIWlVw/master.m3u8
 #EXTINF:-1 tvg-id="WuTangCollection.us" tvg-logo="https://i.imgur.com/uAK9DDk.png" group-title="Movies",Wu Tang Collection (720p)
