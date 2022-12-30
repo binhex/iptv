@@ -200,14 +200,16 @@ https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="Teletubbies.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Teletubbies_Logo.png" group-title="Kids",Teletubbies (720p)
 https://8f720e1353ce43b8babcd780fe178755.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_WildBrainPresentsTeletubbies/playlist.m3u8
-#EXTINF:-1 tvg-id="TGJunior.us" tvg-logo="https://i.imgur.com/cZ4pGmk.png" group-title="Kids",TG Junior (1080p)
-https://stream-us-east-1.getpublica.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-logo="https://i.imgur.com/X7NV3X1.png" group-title="Movies",The Film Detective (720p)
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-logo="https://i.imgur.com/isr5jto.png" group-title="Movies",Thrill (576p)
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-id="ToonGoggles.us" tvg-logo="https://i.imgur.com/6OiYQeS.png" group-title="Kids",Toon Goggles (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSDriveInMovie.us" tvg-logo="https://i.imgur.com/RhKSIGQ.jpg" group-title="Movies",TVS Drive In Movie (360p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-id="TVSFilmNoirNetwork.us" tvg-logo="https://i.imgur.com/A4yWhQw.png" group-title="Movies",TVS Film Noir Network (720p)
+https://rpn1.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8
 #EXTINF:-1 tvg-id="TVSHiTops.us" tvg-logo="https://i.imgur.com/WM95rZ5.png" group-title="Kids",TVS Hi Tops (720p)
 https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8
 #EXTINF:-1 tvg-id="TVSPinballNetwork.us" tvg-logo="https://i.imgur.com/HHmc14i.png" group-title="Kids",TVS Pinball Network (480p)
