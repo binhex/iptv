@@ -156,7 +156,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ba3fb9c4
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd061/master.m3u8
 #EXTINF:-1 tvg-id="TotallyTurtles.us" tvg-logo="https://i.imgur.com/1gIpagY.png" group-title="Kids",Pluto TV Totally Turtles (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8
-#EXTINF:-1 tvg-id="TVLandDrama.us" tvg-logo="https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/colorLogoPNG.png" group-title="Movies",Pluto TV TV Land Drama (720p)
+#EXTINF:-1 tvg-id="TVLandDrama.us" tvg-logo="https://i.imgur.com/y1rXIAS.png" group-title="Movies",Pluto TV TV Land Drama (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTween.us" tvg-logo="https://images.pluto.tv/channels/5db0ae5af8797b00095c0794/colorLogoPNG.png" group-title="Kids",Pluto TV Tween (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8
