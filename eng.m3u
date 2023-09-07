@@ -3854,8 +3854,6 @@ https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollectiveSweden.se" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="Family",The Pet Collective International
 https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TheRetroChannel.us" tvg-logo="https://i.imgur.com/t3i1HtE.jpg" group-title="Music",The Retro Channel (1080p) [Not 24/7]
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TheSoutheasternChannel.us" tvg-logo="https://i.imgur.com/E5dmC1U.png" group-title="Education",The Southeastern Channel (540p)
 http://147.174.13.196/live/live.m3u8
 #EXTINF:-1 tvg-id="TheTimConwayShow.us" tvg-logo="https://i.imgur.com/9uzmRTP.png" group-title="Classic",The Tim Conway Show (720p)
