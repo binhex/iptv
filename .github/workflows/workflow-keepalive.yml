@@ -14,3 +14,5 @@ jobs:
       # will create dummy commit if no commit for 50 days
       - name: Prevent GitHub from disabling sync after 60 days
         uses: gautamkrishnar/keepalive-workflow@master
+        with:
+          gh_token: ${{ secrets.CR_PAT }}
