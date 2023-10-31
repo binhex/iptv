@@ -14,6 +14,8 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
 #EXTINF:-1 tvg-id="BatteryPopXUMO.us" tvg-logo="https://i.imgur.com/5VUZTa1.png" group-title="Kids",Battery Pop (XUMO) (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Movies",Bollywood HD (1080p)
+https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
 #EXTINF:-1 tvg-id="BratTV.us" tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="Kids",Brat TV (1080p)
 https://brat-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BumblebeeTVClassics2.us" tvg-logo="https://i.imgur.com/dxPsj2s.png" group-title="Movies",Bumblebee TV Classics 2 (720p)
