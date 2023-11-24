@@ -54,8 +54,6 @@ https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
 https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
 #EXTINF:-1 tvg-id="Crackle.us" tvg-logo="https://i.imgur.com/7vIsBfF.png" group-title="Movies",Crackle (XUMO) (1080p)
 https://crackle-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Cula4.ie" tvg-logo="https://i.imgur.com/2rhsMFF.png" group-title="Kids",Cúla4 (1080p)
-https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8
 #EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="Movies",DiscoverFilm
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DramaLife.us" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/Drama_Life_190x190.png?raw=true" group-title="Movies",Drama Life (720p)
