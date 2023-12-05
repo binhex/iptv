@@ -54,8 +54,8 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 http://210.210.155.37/dr9445/h/h04/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="Movies",Cinemax East (360p) [Geo-blocked]
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinevault80s.us" tvg-logo="https://i.imgur.com/xaCyyDd.png" group-title="Movies",Cinevault 80s (540p)
-https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinevault80s.us" tvg-logo="https://i.imgur.com/xaCyyDd.png" group-title="Movies",Cinevault 80s (720p)
+https://lnc-cinevault-80s.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="Cocoro.us" tvg-logo="https://i.imgur.com/Z4hIjPn.jpg" group-title="Kids",Cocoro (1080p)
 https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
 #EXTINF:-1 tvg-id="Crackle.us" tvg-logo="https://i.imgur.com/7vIsBfF.png" group-title="Movies",Crackle (XUMO) (1080p)
@@ -70,10 +70,16 @@ https://tvup-fast-ottera-mmm-ducktv.secure2.footprint.net/DexaYJdJXkLqFxTK_DuckT
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmHub.us" tvg-logo="https://i.imgur.com/MRU0d3y.png" group-title="Movies",Film Hub (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseForensicFiles.us" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Movies",Filmrise Forensic Files (720p)
+https://lnc-forensic-files.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="RedboxUnsolvedMysteries.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Unsolved_mysteries_logo.png" group-title="Movies",FilmRise Forensic Files (XUMO) (432p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmRiseFreeMovies.us" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Movies",FilmRise Free Movies (Redbox) (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseTrueCrime.us" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Movies",Filmrise True Crime (720p)
+https://lnc-filmrise-true-crime.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="FilmRiseWestern.us" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Movies",Filmrise Western (720p)
+https://lnc-filmrise-western.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HalaLondonTVCartoon.uk" tvg-logo="https://i.imgur.com/bM4VZDH.png" group-title="Kids",Hala London TV Cartoon (720p)
@@ -84,8 +90,6 @@ https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Aflam/playlist.m3u8
 https://happykids-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HappyKidsJunior.us" tvg-logo="https://i.imgur.com/GSlfL8u.png" group-title="Kids",HappyKids Junior (720p)
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOCentralEuropeHD.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO Hungary (1080p)
-http://194.76.186.33:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="Horrify.us" tvg-logo="https://i.imgur.com/N6H91zk.png" group-title="Movies",Horrify (1080p)
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-1 tvg-id="iFilmEnglish.ir" tvg-logo="https://i.imgur.com/7rZbIYb.png" group-title="Movies",iFilm English (480p)
@@ -106,8 +110,8 @@ https://legochannel-vizio.amagi.tv/playlist.m3u8
 http://45.225.95.170:8000/play/a0ei/index.m3u8
 #EXTINF:-1 tvg-id="MadeInHollywood.us" tvg-logo="https://i.imgur.com/p16HNIM.png" group-title="Movies",Made in Hollywood
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-logo="https://i.imgur.com/OEamqFg.png" group-title="Movies",Maverick Black Cinema (432p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-logo="https://i.imgur.com/OEamqFg.png" group-title="Movies",Maverick Black Cinema (720p)
+https://lnc-maverick-black-cinema.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Kids",Moonbug Kids (1080p)
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieKingdom.us" tvg-logo="https://i.imgur.com/9dQTwH5.png" group-title="Movies",Movie Kingdom (720p)
