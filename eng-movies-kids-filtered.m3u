@@ -46,6 +46,8 @@ https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="CinemaHausa.za" tvg-logo="https://i.imgur.com/uV5cHDW.png" group-title="Movies",Cinema Hausa (720p)
+https://origin3.afxp.telemedia.co.za/PremiumFree/cinemahausa/playlist.m3u8
 #EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Movies",CinemaWorld (576p)
 http://210.210.155.37/dr9445/h/h04/index.m3u8
 #EXTINF:-1 tvg-id="Cinevault80s.us" tvg-logo="https://i.imgur.com/xaCyyDd.png" group-title="Movies",Cinevault 80s (720p)
