@@ -10,6 +10,8 @@ https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/62407
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericanHorrors.us" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="Movies",American Horrors (480p)
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="Aqlvoy.uz" tvg-logo="https://i.imgur.com/ekF5cAi.png" group-title="Kids",Aqlvoy (480p)
+http://gohoski.fvds.ru:3000/mediabay/645/playlist.m3u8
 #EXTINF:-1 tvg-id="B4UPlus.in" tvg-logo="https://i.imgur.com/ly8hBqS.png" group-title="Movies",B4U Plus (576p)
 http://183.89.246.119:8881/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Baby Shark TV (1080p)
