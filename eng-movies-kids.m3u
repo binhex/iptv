@@ -29,7 +29,7 @@ https://brat-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CampSpoopy.us" tvg-logo="https://i.imgur.com/8PUbPVU.png" group-title="Kids",Camp Spoopy (576p)
 https://stream.ads.ottera.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBeebies.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png" group-title="Kids",CBeebies (Poland) (576p)
-https://cdn-main.lolokoko.tv/CBeebies.stream/playlist.m3u8
+https://cdn-nvm-chicago.lolokoko.tv/CBeebies.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Charge.us" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="Movies",Charge! (720p)
 https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-id="CineRomantico.us" tvg-logo="https://i.imgur.com/FUrrDrb.png" group-title="Movies",Cine Romantico
@@ -133,7 +133,7 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback
 #EXTINF:-1 tvg-id="NickJr.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids",Nick Jr India (1080p)
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon (576p)
-https://cdn-main.lolokoko.tv/Nickelodeon.stream/playlist.m3u8
+https://cdn-nvm-chicago.lolokoko.tv/Nickelodeon.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.au" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon Australia (576p)
 http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
 #EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon East (720p)
@@ -141,7 +141,9 @@ http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonSonic.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/512px-Nickelodeon_Sonic_logo.png" group-title="Kids",Nickelodeon Sonic Hindi (1080p)
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Kids",Nicktoons (720p)
-https://cdn-main.lolokoko.tv/Nicktoons.stream/playlist.m3u8
+https://cdn-nvm-chicago.lolokoko.tv/Nicktoons.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="Kids",NickToons (720p)
+http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="NicktoonsScandinavia.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Kids",Nicktoons Scandinavia
 http://89.254.128.5:22280/nicktoons/video.m3u8
 #EXTINF:-1 tvg-id="ParamountMovieChannel.us" tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="Movies",Paramount Movie Channel (720p)
