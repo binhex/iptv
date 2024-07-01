@@ -20,11 +20,8 @@ jobs:
           username: ${{ github.repository_owner }}
           password: ${{ secrets.CR_PAT }}
       - name: push filtered iptv to repo
-        uses: nick-fields/retry@v3
+        uses: Wandalen/wretry.action@v3
         with:
-          timeout_minutes: 60
-          max_attempts: 3
-          retry_wait_seconds: 120
           command: |
             output_filename="eng.m3u"
             output_eng_movies_kids_filename="eng-movies-kids.m3u"
