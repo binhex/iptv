@@ -40,5 +40,7 @@ jobs:
             git config --global user.email "actions@github.com"
             git config --global user.name "actions"
             git add "${output_filename}" "${output_eng_movies_kids_filename}" "${output_eng_movies_kids_filtered_filename}"
-            git commit -m "Updating English filtered m3u"
-            git push
+            if ! git diff-index --quiet HEAD; then
+              git commit -m "Updating English filtered m3u"
+              git push
+            fi
