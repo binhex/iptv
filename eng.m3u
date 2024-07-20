@@ -1599,8 +1599,8 @@ https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8
 https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="Business",FOX Business (1080p)
 http://41.205.93.154/FOXBUSINESS/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel (144p)
-http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",FOX News Channel (720p)
+http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Culture",Fox Soul (1080p)
@@ -2856,7 +2856,7 @@ https://webtv-stream.nettv.com.np/broadcaster/Paryawaran.stream/playlist.m3u8
 https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8
 #EXTINF:-1 tvg-id="PayvandTV.us" tvg-logo="https://i.imgur.com/A4gqEmG.png" group-title="News",Payvand TV (720p) [Not 24/7]
 https://bozztv.com/cus01/ucur1/Payvand/index.m3u8
-#EXTINF:-1 tvg-id="PBCJamaicaTV.jm" tvg-logo="https://i.ibb.co/WnDWvck/PBC-Jamaica-TV-tvtolive-com.jpg" group-title="Legislative",PBC Jamaica TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="PBCJamaicaTV.jm" tvg-logo="https://i.imgur.com/d9NL55N.png" group-title="Legislative",PBC Jamaica TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC8X0kkF7HNdWUxTMjAagJxw.m3u8
 #EXTINF:-1 tvg-id="PBRRidePass.us" tvg-logo="https://i.imgur.com/gUxH97E.png" group-title="Sports",PBR RidePass
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f21-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f7275d4e-aa8e-4e8d-9d5e-6a5665bf8190
