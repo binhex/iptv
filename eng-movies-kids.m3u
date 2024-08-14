@@ -10,8 +10,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8
 #EXTINF:-1 tvg-id="AghapyKids.us" tvg-logo="https://i.imgur.com/8ariztD.png" group-title="Kids",Aghapy Kids (1080p)
 https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC
-http://170.254.18.106/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="AmericanClassics.us" tvg-logo="https://i.imgur.com/IkYZQ9S.png" group-title="Movies",American Classics (432p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericanHorrors.us" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="Movies",American Horrors (480p)
@@ -110,6 +110,8 @@ https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-c
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8
 #EXTINF:-1 tvg-id="FreedomMovieSphere.ug" tvg-logo="https://i.imgur.com/jEyrlPp.jpg" group-title="Movies",Freedom Movie Sphere (720p)
 https://panel.freedomflixtv.org:3311/stream/play.m3u8
+#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="Movies",FX Movie Channel
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 tvg-id="GarfieldandFriends.us" tvg-logo="https://i.imgur.com/evzfe9C.png" group-title="Kids",Garfield and Friends
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8
 #EXTINF:-1 tvg-id="GrandCinema.tr" tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-cinema.png" group-title="Movies",Grand Cinema
@@ -152,6 +154,10 @@ http://45.225.95.170:8000/play/a0ei/index.m3u8
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-logo="https://i.imgur.com/OEamqFg.png" group-title="Movies",Maverick Black Cinema (720p)
 https://lnc-maverick-black-cinema.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="MGMPlusEast.us" tvg-logo="https://i.imgur.com/S2VUrO8.png" group-title="Movies",MGM+ East
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlusMarquee.us" tvg-logo="https://i.imgur.com/QV7Lt5j.png" group-title="Movies",MGM+ Marquee
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 tvg-id="MinimaxCEE.cz" tvg-shift="0" tvg-logo="https://i.imgur.com/WWOlm1x.png" group-title="Kids",Minimax (576p) (576p)
 http://88.212.7.10/live/test_minimax/playlist.m3u8
 #EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Kids",Moonbug Kids (1080p)
@@ -250,6 +256,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8
 http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/512px-STAR_Movies_logo.svg.png" group-title="Movies",Star Movies India (576p) [Not 24/7]
 http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreActionEast.us" tvg-logo="https://i.imgur.com/wIf4X0i.png" group-title="Movies",Starz Encore Action East
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="SundanceTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png" group-title="Movies",SundanceTV East (720p)
 https://fl5.moveonjoy.com/SUNDANCE/index.m3u8
 #EXTINF:-1 tvg-id="SuperSimpleSongs.us" tvg-logo="https://i.imgur.com/3k4F7O9.png" group-title="Kids",Super Simple Songs (1080p)
