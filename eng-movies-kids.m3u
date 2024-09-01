@@ -118,6 +118,8 @@ https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 #EXTINF:-1 tvg-id="Horrify.us" tvg-logo="https://i.imgur.com/N6H91zk.png" group-title="Movies",Horrify (1080p)
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+#EXTINF:-1 tvg-id="IFCEast.us" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="Movies",IFC East (1080p)
+https://bcovlive-a.akamaihd.net/7304338dca7a4c91b8f0504de0342687/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="iFilmEnglish.ir" tvg-logo="https://i.imgur.com/7rZbIYb.png" group-title="Movies",iFilm English
 https://cdnlive.presstv.ir/ifilmlive/smil:ifilmen.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="kabillion.us" tvg-logo="https://i.imgur.com/8CaZXh5.png" group-title="Kids",kabillion (720p)
