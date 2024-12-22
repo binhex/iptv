@@ -148,8 +148,6 @@ https://kali1.everestcast.com:3674/stream/play.m3u8
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-logo="https://i.imgur.com/OEamqFg.png" group-title="Movies",Maverick Black Cinema (720p)
 https://apollo.production-public.tubi.io/live/ac-maverick-black-cinema.m3u8
-#EXTINF:-1 tvg-id="MBC2.mw" tvg-logo="https://i.imgur.com/qPnolMM.png" group-title="Movies",MBC 2 (720p) [Not 24/7]
-https://glb.bozztv.com/glb/ssh101/mbctv2mw/playlist.m3u8
 #EXTINF:-1 tvg-id="MGMPlusEast.us" tvg-logo="https://i.imgur.com/S2VUrO8.png" group-title="Movies",MGM+ East
 http://fl2.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-id="MGMPlusMarquee.us" tvg-logo="https://i.imgur.com/QV7Lt5j.png" group-title="Movies",MGM+ Marquee
