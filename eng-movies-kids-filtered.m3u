@@ -22,8 +22,6 @@ https://familyhls.avatv.live/hls/stream.m3u8
 http://183.89.246.119:8881/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Baby Shark TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8
-#EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst (1080p)
-https://lte.wiseplayout.com/WiseM3U8_12/master.m3u8
 #EXTINF:-1 tvg-id="BebecitoBumysusamigos.us" tvg-logo="https://i.imgur.com/bTXIYic.png" group-title="Kids",Bebecito Bum y sus amigos
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60493283ffc52f000710edae/master.m3u8
 #EXTINF:-1 tvg-id="BlackCinema.us" tvg-logo="https://i.imgur.com/FKBp987.png" group-title="Movies",Black Cinema
@@ -138,6 +136,8 @@ https://kali1.everestcast.com:3674/stream/play.m3u8
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-logo="https://i.imgur.com/OEamqFg.png" group-title="Movies",Maverick Black Cinema (720p)
 https://apollo.production-public.tubi.io/live/ac-maverick-black-cinema.m3u8
+#EXTINF:-1 tvg-id="MBC3USA.us" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Kids",MBC 3 USA (1080p)
+https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
 #EXTINF:-1 tvg-id="MGMPlusEast.us" tvg-logo="https://i.imgur.com/S2VUrO8.png" group-title="Movies",MGM+ East
 http://fl2.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-id="MGMPlusMarquee.us" tvg-logo="https://i.imgur.com/QV7Lt5j.png" group-title="Movies",MGM+ Marquee
