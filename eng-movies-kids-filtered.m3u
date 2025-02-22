@@ -31,7 +31,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Movies",Bollywood HD (1080p)
 https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
 #EXTINF:-1 tvg-id="BratTV.us" tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="Kids",Brat TV (1080p)
-https://brat-rakuten.amagi.tv/playlist.m3u8
+https://brat-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CampSpoopy.us" tvg-logo="https://i.imgur.com/8PUbPVU.png" group-title="Kids",Camp Spoopy (576p)
 https://stream.ads.ottera.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Charge.us" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="Movies",Charge! (720p)
@@ -200,24 +200,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://jmp2.uk/sam-GB25000016G.m3u8
 #EXTINF:-1 tvg-id="RainbowSquad.us" tvg-logo="https://i.imgur.com/v5WOkBa.png" group-title="Kids",Rainbow Squad
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb028c2e6a0c00075275a5/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.uk" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",Rakuten Action Movies UK (720p)
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMovies.uk" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",Rakuten Comedy Movies UK (720p)
-https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVSpotlight.uk" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",Rakuten Spotlight UK (720p)
-https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.uk" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",Rakuten Top Movies UK (1080p)
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaMovies.fi" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",Rakuten TV Draama
-https://rakuten-drama-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVTopMovies.fi" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",Rakuten TV Huippuelokuvat
-https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMovies.fi" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",Rakuten TV Komedia
-https://rakuten-comedy-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVRakutenStories.fi" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",Rakuten TV Rakuten Stories
-https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.fi" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",Rakuten TV Toiminta
-https://rakuten-action-12-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RevryHer.us" tvg-logo="https://www.washingtonblade.com/content/files/2020/01/QUEER_STREAMING_SERVICE_ADOPTS-LGBT_TOKEN_FEATURED_WB_10012020-e1578680670538.jpeg" group-title="Movies",Revry Her
 https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RyanandFriends.us" tvg-logo="https://i.imgur.com/jcIprmt.png" group-title="Kids",Ryan and Friends
