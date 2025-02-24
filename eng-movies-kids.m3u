@@ -154,8 +154,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="Movies",MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NickHDPlus.in" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="Kids",Nick HD+ (1080p)
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="NickHDPlus.in" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="Kids",Nick HD+
+http://103.68.28.58:5001/live/1226.m3u8
 #EXTINF:-1 tvg-id="NickJr.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids",Nick Jr India (1080p)
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="NickJrEast.us" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Kids",Nick Jr. East (720p)
@@ -230,6 +230,8 @@ http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 https://app.viloud.tv/hls/channel/fb6891b829df2ea6dd6968b506a8c393.m3u8
 #EXTINF:-1 tvg-id="TeamSpirit.us" tvg-logo="https://i.imgur.com/O1Mengf.png" group-title="Kids",Team Spirit
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f9ebb06f0b3d000746fbdb/master.m3u8
+#EXTINF:-1 tvg-id="TeenNick.pl" tvg-logo="https://i.imgur.com/KZq73CE.png" group-title="Kids",TeenNick (1080p)
+http://109.233.89.173/TeenNick/index.m3u8
 #EXTINF:-1 tvg-id="Teletubbies.uk" tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="Kids",Teletubbies
 https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-logo="https://i.imgur.com/yfOwmsP.png" group-title="Movies",The Film Detective
