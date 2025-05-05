@@ -134,8 +134,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchan
 https://stream.ads.ottera.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Kiddiwinks.za" tvg-logo="https://i.imgur.com/tStBWnn.png" group-title="Kids",Kiddiwinks (720p)
 https://origin3.afxp.telemedia.co.za/PremiumFree/kiddiwinks/playlist.m3u8
-#EXTINF:-1 tvg-id="KidoodleTV.ca" tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="Kids",Kidoodle TV
-https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LegoChannel.us" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",Lego Channel (1080p)
 https://jmp2.uk/sam-GBBC4300005AL.m3u8
 #EXTINF:-1 tvg-id="LEGOKidsTV.us" tvg-logo="https://i.imgur.com/tMfEsVr.png" group-title="Kids",LEGO Kids TV
