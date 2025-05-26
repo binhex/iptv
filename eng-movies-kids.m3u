@@ -192,8 +192,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 http://31.148.48.15/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon (480p)
-http://181.78.109.48:8000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon (Spain) (576p)
+http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon Asia (720p)
 http://178.128.214.60:1234/stream/astro/nickelodeon/master.m3u8
 #EXTINF:-1 tvg-id="NickelodeonSonic.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/512px-Nickelodeon_Sonic_logo.png" group-title="Kids",Nickelodeon Sonic Hindi (1080p)
