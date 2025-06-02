@@ -1,0 +1,21 @@
+name: workflow-immortality
+
+on:
+  schedule:
+    # run once a month on the first day of the month at 02:00 UTC
+    - cron: '00 02 01 * *'
+  workflow_dispatch: {}
+
+jobs:
+  keepalive:
+    name: workflow-immortality
+
+    runs-on: ubuntu-latest
+    permissions: {}
+
+    steps:
+      - name: Keep cronjob based triggers of GitHub workflows alive
+        uses: PhrozenByte/gh-workflow-immortality@b755c1ad9f4d287b56784a749634551149aa0313 # v1.1.1
+        with:
+          secret: ${{ secrets.IMMORTALITY_PAT }}
+          owner_repos: true # this ensures all repositories owned by me (public and private) are kept alive
