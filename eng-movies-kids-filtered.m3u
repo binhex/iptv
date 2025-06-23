@@ -168,8 +168,6 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8
 #EXTINF:-1 tvg-id="NickPlutoTV.us" tvg-logo="https://i.imgur.com/N7rQyzN.png" group-title="Kids",Nick Pluto TV (720p)
 https://jmp2.uk/plu-62bdb6a83c6e37000726823b.m3u8
-#EXTINF:-1 tvg-id="NickelodeonUkrainePlutoTV.ua@SD" tvg-logo="https://i.imgur.com/MvZxboI.png" group-title="Kids",Nick Ukraine
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622882350f6aad0008c76e77/master.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.ru@SD" tvg-logo="https://i.imgur.com/w8iE8dV.png" group-title="Kids",Nickelodeon
 http://31.148.48.15/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon
