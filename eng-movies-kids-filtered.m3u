@@ -184,6 +184,8 @@ https://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8
 #EXTINF:-1 tvg-id="ParamountPlusPicks.us" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="Movies",Paramount+ Picks
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-logo="https://i.imgur.com/tDapGal.png" group-title="Movies",Pluto TV Action
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCrimeDrama.us@SD" tvg-logo="https://i.imgur.com/9j1njE3.png" group-title="Movies",Pluto TV Crime Drama
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92708a7ce600007b2676a/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCrimeMovies.us" tvg-logo="https://i.imgur.com/SJcqknt.png" group-title="Movies",Pluto TV Crime Movies
@@ -202,6 +204,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60812fc85399630007
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVStaffPicks.us" tvg-logo="https://i.imgur.com/JzwO8IO.png" group-title="Movies",Pluto TV Staff Picks
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8
+#EXTINF:-1 tvg-id="PlutoTVThrillers.us" tvg-logo="https://i.imgur.com/ULKvDN7.png" group-title="Movies",Pluto TV Thrillers
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWesterns.us" tvg-logo="https://i.imgur.com/biepi4A.png" group-title="Movies",Pluto TV Westerns
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8
 #EXTINF:-1 tvg-id="pocketwatch.us@SD" tvg-logo="https://i.imgur.com/T0V90Lz.png" group-title="Kids",Pocket.watch
