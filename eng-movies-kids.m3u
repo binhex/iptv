@@ -76,8 +76,6 @@ http://116.90.120.149:8000/play/a0b3/index.m3u8
 https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids",Disney XD (720p)
 http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids",Disney XD West (720p)
-https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="DoraTV.us" tvg-logo="https://i.imgur.com/zJuSbmU.png" group-title="Kids",Dora TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8
 #EXTINF:-1 tvg-id="ducktv.sk" tvg-logo="https://i.imgur.com/gRFQ35W.png" group-title="Kids",ducktv (720p)
