@@ -83,9 +83,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 #EXTINF:-1 tvg-id="Film4.uk@HD" tvg-logo="https://i.imgur.com/MTSgoGI.png" group-title="Movies",Film4 HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 #EXTINF:-1 tvg-id="FilmRiseForensicFiles.us" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Movies",Filmrise Forensic Files (720p)
-https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8
+https://livetv-fa.tubi.video/forensic-files/index.m3u8
 #EXTINF:-1 tvg-id="FilmRiseTrueCrime.us" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Movies",Filmrise True Crime (720p)
-https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8
+https://livetv-fa.tubi.video/filmrise-true-crime/index.m3u8
 #EXTINF:-1 tvg-id="FindOutWhy.us" tvg-logo="https://i.imgur.com/QVYPNkI.png" group-title="Kids",Find Out Why
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faf9368c7ad900082bc9a8/master.m3u8
 #EXTINF:-1 tvg-id="FlicksofFury.us" tvg-logo="https://i.imgur.com/rtL5L81.png" group-title="Movies",Flicks of Fury
