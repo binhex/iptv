@@ -68,6 +68,8 @@ https://fl25.moveonjoy.com/CRAVE_4/index.m3u8
 https://movies.ctbperth.net.au/hls/stream.m3u8
 #EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="Movies",DiscoverFilm
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-logo="https://i.imgur.com/UxrAiAe.png" group-title="Kids",Disney Channel (576p)
+http://84.54.128.52:9090/play/3006/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Kids",Disney Channel (576p) [Not 24/7]
 http://116.90.120.149:8000/play/a0bx/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Kids",Disney Channel
