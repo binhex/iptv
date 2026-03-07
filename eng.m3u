@@ -1001,7 +1001,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8
 #EXTINF:-1 tvg-id="CNAOriginals.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png" group-title="Documentary",CNA Originals (1080p)
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBC.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/512px-CNBC_2025.svg.png" http-referrer="https://www.newslive.com/business/cnbc-live-free.html" group-title="Business",CNBC (720p)
+#EXTINF:-1 tvg-id="CNBC.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" http-referrer="https://www.newslive.com/business/cnbc-live-free.html" group-title="Business",CNBC (720p)
 #EXTVLCOPT:http-referrer=https://www.newslive.com/business/cnbc-live-free.html
 https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
 #EXTINF:-1 tvg-id="CNBCAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/512px-CNBC_2025.svg.png" group-title="Business",CNBC Asia (720p)
@@ -2091,8 +2091,9 @@ https://lonestar-rakuten.amagi.tv/playlist.m3u8
 https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8
 #EXTINF:-1 tvg-id="LA36.us@SD" tvg-logo="https://i.imgur.com/JxTzUEq.png" group-title="Education",Los Angeles Local Television Channel 36 (1080p)
 https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-id="LotusTV.mo@SD" tvg-logo="https://i.imgur.com/7j8Lnog.png" group-title="General",Lotus Macau HD (1080p)
-https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+#EXTINF:-1 tvg-id="LotusTV.mo@SD" tvg-logo="https://i.imgur.com/7j8Lnog.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Lotus Macau HD 720p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca@SD" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Outdoor",Love Nature (1080p)
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca@4K" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Outdoor",Love Nature 4K (2160p) [Geo-blocked]
@@ -2228,8 +2229,8 @@ https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 https://live.relentlessinnovations.net:1936/rspe-tv/rspe-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MMTV.mv@SD" tvg-logo="https://i.imgur.com/21tpl5b.png" group-title="General",MMTV (1080p)
 https://sendlive.online/hls/mmtv.m3u8
-#EXTINF:-1 tvg-id="MNBWorld.mn@SD" tvg-logo="https://i.imgur.com/PHlj84Q.png" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="General",MNB World (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="MNBWorld.mn@SD" tvg-logo="https://i.imgur.com/PHlj84Q.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",MNB World (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
 #EXTINF:-1 tvg-id="MNX.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png" group-title="Movies",MNX (576p)
 http://161.248.38.40:8000/play/a07f/index.m3u8
@@ -2512,8 +2513,8 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e290958
 https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="NFLRedZone.us@SD" tvg-logo="https://i.imgur.com/5lPqQj5.png" group-title="Sports",NFL RedZone (720p) [Not 24/7]
 https://tvpass.org/live/NFLRedZone/hd
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp@SD" tvg-logo="https://i.imgur.com/4ESi2La.png" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",NHK World Premium (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp@SD" tvg-logo="https://i.imgur.com/4ESi2La.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",NHK World Premium (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Culture;News",NHK World-Japan (1080p)
 https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8
