@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="30ATVClassicMovies.us@SD" tvg-logo="https://babaktv.com/wp-content/uploads/2023/09/30A-Classi-Movies.jpeg" group-title="Movies",30A TV Classic Movies
+#EXTINF:-1 tvg-id="30ATVClassicMovies.us@SD" tvg-logo="https://babaktv.com/wp-content/uploads/2023/09/30A-Classi-Movies.jpeg" group-title="Movies",30A TV Classic Movies (720p)
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 #EXTINF:-1 tvg-id="70sCinema.us@SD" tvg-logo="https://i.imgur.com/mgXeEE4.png" group-title="Movies",70s Cinema
 https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
@@ -120,6 +120,8 @@ http://116.90.120.151:8000/play/a0ib/index.m3u8
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1 tvg-id="Movies.us@SD" tvg-logo="https://i.imgur.com/gAGn3mK.png" group-title="Movies",Movies! (480p)
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us@US" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MovieSphere (1080p)
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us@AU" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MovieSphere AU (1080p)
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us@UK" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MovieSphere UK (1080p)
@@ -218,11 +220,11 @@ http://116.90.120.151:8000/play/a0ij/index.m3u8
 https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Teletubbies.uk@SD" tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="Kids",Teletubbies (720p)
 https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-logo="https://i.imgur.com/yfOwmsP.png" group-title="Movies",The Film Detective (720p)
+#EXTINF:-1 tvg-id="TheFilmDetective.us@SD" tvg-logo="https://i.imgur.com/yfOwmsP.png" group-title="Movies",The Film Detective (720p)
 https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TinyPop.uk@SD" tvg-logo="https://i.imgur.com/zCTf71x.png" group-title="Kids",Tiny Pop (1080p)
 https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
-#EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Kids",Tom And Jerry
+#EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Kids",Tom And Jerry (720p)
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="TGJunior.us@SD" tvg-logo="https://i.imgur.com/aqane40.png" group-title="Kids",Toon Goggles Junior (720p)
 https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
