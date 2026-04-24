@@ -403,6 +403,8 @@ https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/pl
 https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="KETS21.us@HD" tvg-logo="https://i.imgur.com/dNBZLtD.png" group-title="Education",Arkansas PBS [Geo-blocked]
 https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
+#EXTINF:-1 tvg-id="ARTTelevision.lk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/ART_Television_%28Sri_Lanka%29_%28logo%29.png/960px-ART_Television_%28Sri_Lanka%29_%28logo%29.png" group-title="General",ART Television (720p)
+https://mini.allinonereborn.fun/tata.php?id=11585
 #EXTINF:-1 tvg-id="ARTFLIXMovieClassics.us@SD" tvg-logo="https://i.imgur.com/5pOZQB4.png" group-title="Classic;Movies",Artflix Movie Classics (720p)
 https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ArubaTV.aw@SD" tvg-logo="https://i.imgur.com/9fWY09U.png" group-title="Travel",Aruba.TV (1080p)
@@ -998,6 +1000,8 @@ https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
 #EXTINF:-1 tvg-id="Channel247.gh@SD" tvg-logo="https://i.imgur.com/8qNPgBa.png" group-title="General",Channel247 (1080p)
 https://tv.localstreamgh.com/Channel247/index.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.lk@SD" tvg-logo="https://i.imgur.com/CqRSTdL.png" group-title="General",Channel One (720p)
+https://mini.allinonereborn.fun/tata.php?id=11589
 #EXTINF:-1 tvg-id="ChannelS.uk@SD" tvg-logo="https://i.imgur.com/hJxFLvF.png" group-title="Culture",Channel S (576p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelU.sg@SD" tvg-logo="https://i.imgur.com/9MzEjoY.png" group-title="Entertainment",Channel U
@@ -3246,8 +3250,8 @@ https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjaz
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="RacerNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg" group-title="Sports",Racer Network (1080p)
 https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="RacerSelect.us@SD" tvg-logo="https://i.imgur.com/CurtYvn.png" group-title="Sports",RACER Select (1080p)
-https://d85qrcmltdfp8.cloudfront.net/MAVTV_Select.m3u8
+#EXTINF:-1 tvg-id="RacerSelect.us@SD" tvg-logo="https://i.imgur.com/CurtYvn.png" group-title="Sports",Racer Select (1080p)
+https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Racingcom.au@SD" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="Sports",Racing.com (720p)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:-1 tvg-id="RadioStaddenHaag.nl@SD" tvg-logo="https://i.imgur.com/ANK36EQ.png" group-title="Music",Radio Stad den Haag (720p)
@@ -4114,8 +4118,10 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVJ.jm@SD" tvg-logo="https://i.imgur.com/R4PoC3L.png" group-title="General",TVJ (720p) [Not 24/7]
 https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8
-#EXTINF:-1 tvg-id="TVM.mt@SD" tvg-logo="https://i.imgur.com/V0iMsED.png" group-title="General",TVM [Geo-blocked]
-http://80.79.6.221:25461/smash/public/19
+#EXTINF:-1 tvg-id="TVM.mt@SD" tvg-logo="https://i.imgur.com/V0iMsED.png" group-title="General",TVM (1080p)
+https://stream.smashmalta.com:25463/live/webplayer/livestream/19.m3u8
+#EXTINF:-1 tvg-id="TVMsportPlus.mt@SD" tvg-logo="https://i.imgur.com/YIreFti.png" group-title="Sports",TVMsport+ (1080p)
+https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8
 #EXTINF:-1 tvg-id="TVNZ1.nz@SD" tvg-logo="https://i.imgur.com/Nx76HUE.png" group-title="General",TVNZ 1 [Geo-blocked]
 https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8
 #EXTINF:-1 tvg-id="TVNZ2.nz@SD" tvg-logo="https://i.imgur.com/9sV4dbH.png" group-title="General",TVNZ 2 [Geo-blocked]
