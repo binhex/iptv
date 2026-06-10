@@ -14,6 +14,10 @@ https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-id="Aqlvoy.uz@SD" tvg-logo="https://i.imgur.com/ekF5cAi.png" group-title="Kids",Aqlvoy
 https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AXNBlack.us@Romania" tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="Movies",AXN Black Romania [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8
+#EXTINF:-1 tvg-id="AXNCEE.es@Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN CEE Romania [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7008/index.m3u8
 #EXTINF:-1 tvg-id="BabySharkTV.us@SD" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Baby Shark TV (1080p)
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCKids.us@SD" tvg-logo="https://i.imgur.com/vKUD64a.png" group-title="Kids",BBC Kids (720p)
@@ -52,12 +56,12 @@ http://149.71.34.166:8000/play/a00l/index.m3u8
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids",Disney XD (720p)
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-id="Film4.uk@HD" tvg-logo="https://i.imgur.com/MTSgoGI.png" group-title="Movies",Film4 HD (1080p) [Geo-Blocked]
-https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 #EXTINF:-1 tvg-id="Filmazia.pk@SD" tvg-logo="https://i.imgur.com/hpTCANa.png" group-title="Movies",Filmazia (576p)
 http://103.250.28.74:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="FilmBoxBaltics.nl@SD" tvg-logo="https://i.imgur.com/gXu36aD.png" group-title="Movies",FilmBox Baltics
 https://iptv.prosto.tv/ch64/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FilmBoxFamily.nl@Africa" tvg-logo="https://i.imgur.com/CGFyAyc.png" group-title="Movies",FilmBox Family [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7044/index.m3u8
 #EXTINF:-1 tvg-id="FilmRiseWestern.us@SD" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Movies",FilmRise Westerns (720p)
 https://dz05z8iljgvbe.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="FilmRiseForensicFiles.us@SD" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Movies",Forensic Files (720p) [Geo-blocked]
@@ -176,6 +180,8 @@ http://149.71.34.166:8000/play/a01f/index.m3u8
 http://149.71.34.166:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="SuperSimpleSongs.us@SD" tvg-logo="https://i.imgur.com/3k4F7O9.png" group-title="Kids",Super Simple Songs (1080p)
 https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TeenNick.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png" group-title="Kids",TeenNick [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8
 #EXTINF:-1 tvg-id="Teletubbies.uk@SD" tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="Kids",Teletubbies (720p)
 https://dv8lsrd8fecw9.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="TheFilmDetective.us@SD" tvg-logo="https://i.imgur.com/yfOwmsP.png" group-title="Movies",The Film Detective (720p)
