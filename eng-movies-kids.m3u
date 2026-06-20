@@ -72,8 +72,6 @@ http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
 #EXTINF:-1 tvg-id="Filmazia.pk@SD" tvg-logo="https://i.imgur.com/hpTCANa.png" group-title="Movies",Filmazia (576p)
 http://103.250.28.74:8000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-id="FilmBox.nl@Netherlands" tvg-logo="https://i.imgur.com/VyaslIY.png" group-title="Movies",FilmBox [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6948/index.m3u8
 #EXTINF:-1 tvg-id="FilmBoxFamily.nl@Africa" tvg-logo="https://i.imgur.com/CGFyAyc.png" group-title="Movies",FilmBox Family [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7044/index.m3u8
 #EXTINF:-1 tvg-id="FilmRiseWestern.us@SD" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Movies",FilmRise Westerns (720p)
@@ -100,6 +98,8 @@ https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
 https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
 #EXTINF:-1 tvg-id="HappyKids.us@SD" tvg-logo="https://i.imgur.com/cPrUCFw.png" group-title="Kids",HappyKids (1080p)
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="IFC.us@East" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="Movies",IFC (1080p)
+http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:-1 tvg-id="iFilmEnglish.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Movies",iFilm English
 https://live.presstv.ir/hls/ifilmen.m3u8
 #EXTINF:-1 tvg-id="IuniorTV.it@SD" tvg-logo="https://i.imgur.com/FBOJnfT.png" group-title="Kids",Iunior TV (1080p)
@@ -114,10 +114,14 @@ https://d24p9tv2w5yorn.cloudfront.net/vod.m3u8
 https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KidsPangTV.us@SD" tvg-logo="https://i.imgur.com/mhAAIa2.png" group-title="Kids",Kids Pang TV (1080p)
 https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KidsStreet.us@SD" tvg-logo="https://i.imgur.com/gUwRl6Q.png" group-title="Kids",Kids Street (1080p)
+http://181.78.121.15:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="KidsZone.pk@SD" tvg-logo="https://i.imgur.com/mJWBVH1.png" group-title="Kids",Kids Zone (720p)
 http://103.250.28.74:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="LEGOKidsTV.us@SD" tvg-logo="https://i.imgur.com/tMfEsVr.png" group-title="Kids",LEGO Kids TV
 https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
+#EXTINF:-1 tvg-id="LifetimeMovies.us@East" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="Movies",Lifetime Movies (1080p)
+http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1 tvg-id="LittleStarsUniverse.us@SD" tvg-logo="https://i.imgur.com/RasrA0s.png" group-title="Kids",Little Stars Universe
 https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8
 #EXTINF:-1 tvg-id="MadeInHollywood.us@SD" tvg-logo="https://i.imgur.com/p16HNIM.png" group-title="Movies",Made in Hollywood
@@ -166,6 +170,8 @@ https://ads.its-newid.net/api/manifest.m3u8
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 #EXTINF:-1 tvg-id="NickHDPlus.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540" group-title="Kids",Nick HD+ (1080p)
 http://103.72.101.252:8080/live/1226.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@East" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Kids",Nick Jr. (576p)
+http://84.17.50.102/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" group-title="Kids",Nick Jr. Pluto TV
 https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us@US" tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" group-title="Kids",Nick Jr. Pluto TV (720p)
@@ -174,6 +180,8 @@ https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.ca@FAST" tvg-logo="https://i.ibb.co/ZpmVmC3G/IMG-0291.jpg" group-title="Kids",NickToons
 https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/960px-Nicktoons_Network_logo_2009.svg.png" group-title="Kids",Nicktoons (720p)
+http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="NinjaKidzTV.us@SD" tvg-logo="https://i.imgur.com/7EngqUi.png" group-title="Kids",Ninja Kidz (720p)
 https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="NollyAfrica.uk@SD" tvg-logo="https://i.imgur.com/IxtGpti.png" group-title="Movies",Nolly Africa HD (1080p)
