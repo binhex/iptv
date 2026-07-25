@@ -80,8 +80,6 @@ http://84.54.128.52:9090/play/3006/index.m3u8
 http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Kids",Disney Channel (720p)
 http://206.212.244.63/650/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelEMEA.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel EMEA (576p)
-http://185.102.171.218/DisneyChannel/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Kids",Disney Channel West (720p)
 http://206.212.244.63/3146/index.m3u8
 #EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png" group-title="Kids",Disney International HD (1080p)
@@ -228,8 +226,6 @@ http://103.72.101.252:8080/live/1226.m3u8
 http://bethoven.af-stream.com:1600/s/kwtlxswl/nick-jr-il/video.m3u8
 #EXTINF:-1 tvg-id="NickJr.us@East" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Kids",Nick Jr. (1080p)
 http://40.160.24.55/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-id="NickJrAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Kids",Nick Jr. Asia (360p) [Geo-blocked]
-https://phcornerultralast.qzz.io/hls/laslo-serverless/dr_nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" group-title="Kids",Nick Jr. Pluto TV
 https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us@US" tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" group-title="Kids",Nick Jr. Pluto TV (720p)
