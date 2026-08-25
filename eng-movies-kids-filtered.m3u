@@ -426,8 +426,6 @@ https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
 https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8
 #EXTINF:-1 tvg-id="TransformersTV.us@SD" tvg-logo="https://images.pluto.tv/channels/63da36dea995710008727d4d/colorLogoPNG.png" group-title="Kids",Transformers TV (720p)
 https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
-#EXTINF:-1 tvg-id="TV1000.si@SD" tvg-logo="https://i.imgur.com/GHNsctR.png" group-title="Movies",TV1000 (1080p)
-http://176.61.157.250/TV1000/index.m3u8
 #EXTINF:-1 tvg-id="TVLandDrama.us@SD" tvg-logo="https://i.imgur.com/y1rXIAS.png" group-title="Movies",TV Land Drama
 https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
 #EXTINF:-1 tvg-id="TVCARiBCinema.sx@SD" tvg-logo="https://i.imgur.com/fvGlwKo.png" group-title="Movies",TVCARiB Cinema (720p) [Not 24/7]
@@ -450,6 +448,8 @@ https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
 https://jmp2.uk/plu-62beb44e3afd120007915d1b.m3u8
 #EXTINF:-1 tvg-id="ViafreeMovies.se@SE" tvg-logo="https://images.pluto.tv/channels/62bebc3459624e00078209c3/colorLogoPNG.png" group-title="Movies",Viafree Movies
 https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
+#EXTINF:-1 tvg-id="ViasatKino.ua@Balkan" tvg-logo="https://i.imgur.com/io0WAkA.png" group-title="Movies",Viasat Kino Balkan (1080p)
+http://176.61.157.250/TV1000/index.m3u8
 #EXTINF:-1 tvg-id="WatchitKID.us@SD" tvg-logo="https://i.imgur.com/YNx0j1b.png" group-title="Kids",Watch it KID! (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8
 #EXTINF:-1 tvg-id="WhiplashCinema.us@SD" tvg-logo="https://whiplash.cc/assets/img/channels/whiplashcinema.png" group-title="Movies",Whiplash Cinema (480p)
