@@ -48,7 +48,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04
 https://stream.ads.ottera.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBeebiesAsia.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png" group-title="Kids",CBeebies Asia (576p)
 http://202.70.146.135:8000/play/a0a2/index.m3u8
-#EXTINF:-1 tvg-id="Charge.us@SD" tvg-logo="https://i.imgur.com/ocs2DeU.png" group-title="Movies",Charge! (1080p)
+#EXTINF:-1 tvg-id="Charge.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Charge!_network_logo.png/revision/latest/scale-to-width-down/512/" group-title="Movies",Charge! (1080p)
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 tvg-id="CINDIETV.br@HD" tvg-logo="https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png" group-title="Movies",CINDIE TV (1080p)
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
@@ -390,8 +390,6 @@ https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/
 https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten TV Top Movies UK (1080p)
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
-#EXTINF:-1 tvg-id="RomedyNow.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png" group-title="Movies",Romedy Now (576p)
-http://103.157.248.140:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="Runtime.us@SD" tvg-logo="https://i.imgur.com/2USCMvP.png" group-title="Movies",Runtime (720p)
 https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8
 #EXTINF:-1 tvg-id="RyanandFriends.us@SD" tvg-logo="https://i.imgur.com/jcIprmt.png" group-title="Kids",Ryan and Friends (1080p)
