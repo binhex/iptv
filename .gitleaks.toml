@@ -1,0 +1,26 @@
+# Gitleaks configuration for this repository.
+#
+# Why an allowlist exists here:
+#
+# * `eng.m3u` is a published playlist of public/free-to-air streams. The
+#   `token=` parameters and JWT-shaped strings it contains are ephemeral
+#   playback tokens minted by those public services - not credentials this
+#   project owns. Without this entry every sweep reports ~17 findings there
+#   and real findings get lost in the noise.
+# * `target/`, dependency trees and vendored code are not source. Rust build
+#   output embeds PEM strings from dependencies (that produced 76 bogus
+#   "private-key" findings in a sibling repo).
+#
+# The allowlist is path-scoped on purpose: a real credential in a real source
+# file is still reported.
+
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "published public-stream playlist"
+paths = ['''eng\.m3u$''']
+
+[[allowlists]]
+description = "build artefacts and dependency trees are not source"
+paths = ['''target/''', '''node_modules/''', '''\.venv/''', '''vendor/''']
