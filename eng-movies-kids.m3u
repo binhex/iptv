@@ -326,8 +326,6 @@ https://jmp2.uk/plu-63dbe8c8a9957100087798a3.m3u8
 https://jmp2.uk/plu-63dbe80f60bc8f0008aa7c78.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMovies.de@GB" tvg-logo="https://images.pluto.tv/channels/5c5c3b948002db3c3e0b262e/colorLogoPNG.png" group-title="Movies",Pluto TV Movies GB
 https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8
-#EXTINF:-1 tvg-id="PlutoTVParanormal.de@GB" tvg-logo="https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png" group-title="Movies",Pluto TV Paranormal (Germany) GB
-https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8
 #EXTINF:-1 tvg-id="PlutoTVParanormal.se@SE" tvg-logo="https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png" group-title="Movies",Pluto TV Paranormal (Sweden)
 https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8
 #EXTINF:-1 tvg-id="PlutoTVParanormal.se@DK" tvg-logo="https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png" group-title="Movies",Pluto TV Paranormal (Sweden) DK
@@ -352,9 +350,7 @@ https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8
 https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTerror.us@SD" tvg-logo="https://i.imgur.com/eWtoHDM.png" group-title="Movies",Pluto TV Terror
 https://jmp2.uk/plu-5c6dc88fcd232425a6e0f06e.m3u8
-#EXTINF:-1 tvg-id="PlutoTVThrillers.de@GB" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="Movies",Pluto TV Thrillers (Germany) GB
-https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8
-#EXTINF:-1 tvg-id="PlutoTVThrillers.us@US" tvg-logo="https://i.imgur.com/ULKvDN7.png" group-title="Movies",Pluto TV Thrillers (United States)
+#EXTINF:-1 tvg-id="PlutoTVThrillers.us@US" tvg-logo="https://i.imgur.com/ULKvDN7.png" group-title="Movies",Pluto TV Thrillers
 https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTrendingNow.us@SD" tvg-logo="https://images.pluto.tv/channels/673247127d5da5000817b4d6/colorLogoPNG_1732662634386.png" group-title="Movies",Pluto TV Trending Now
 https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
