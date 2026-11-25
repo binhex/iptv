@@ -222,6 +222,8 @@ http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg" group-title="Kids",Nicktoons (Poland) (576i)
 http://92.114.85.87:8013/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/NickToons_US_2023_Splat_Variant.png/revision/latest?cb=20251214221939" group-title="Kids",Nicktoons (Romania) (576p)
+http://91.235.165.117:8001/play/a061/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us@East" tvg-logo="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png" group-title="Kids",Nicktoons (United States) (720p)
 http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us@CA" tvg-logo="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png" group-title="Kids",Nicktoons (United States) CA
@@ -446,9 +448,11 @@ https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
 https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
 #EXTINF:-1 tvg-id="ViafreeMovies.se@NO" tvg-logo="https://images.pluto.tv/channels/62bebc3459624e00078209c3/colorLogoPNG.png" group-title="Movies",Viafree Movies NO
 https://jmp2.uk/plu-62beb44e3afd120007915d1b.m3u8
-#EXTINF:-1 tvg-id="ViasatKino.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg" group-title="Movies",Viasat Kino (576p)
+#EXTINF:-1 tvg-id="ViasatKino.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Viasat_Kino_2025.svg/revision/latest?cb=20250506205346" group-title="Movies",Viasat Kino (Romania) (576i)
+http://91.235.165.117:8001/play/a055/index.m3u8
+#EXTINF:-1 tvg-id="ViasatKino.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg" group-title="Movies",Viasat Kino (Ukraine) (576p)
 http://dtv.vol.net.ua/Viasat_Kino/index.m3u8
-#EXTINF:-1 tvg-id="ViasatKino.ua@Balkan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg" group-title="Movies",Viasat Kino Balkan (1080p)
+#EXTINF:-1 tvg-id="ViasatKino.ua@Balkan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg" group-title="Movies",Viasat Kino (Ukraine) Balkan (1080p)
 http://176.61.157.250/TV1000/index.m3u8
 #EXTINF:-1 tvg-id="ViasatKinoAction.ua@SD" tvg-logo="https://i.imgur.com/HwsNIDK.png" group-title="Movies",Viasat Kino Action (576p)
 http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8
